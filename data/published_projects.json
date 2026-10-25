@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "project_name": "Live-Edge River Dining Table (72x12x2.0 Inch Channel)",
+    "slug": "live-edge-river-dining-table-72x12x20-inch-channel-epoxy-gallon-calculator",
+    "title": "Live-Edge River Dining Table (72x12x2.0 Inch Channel) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (8.23 Gallons / 1053 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Live-Edge River Dining Table (72x12x2.0 Inch Channel).",
+    "gallons": 8.23,
+    "fl_oz": 1053,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-25"
+  },
+  {
+    "project_name": "Live-Edge River Coffee Table (48x10x1.75 Inch Channel)",
+    "slug": "live-edge-river-coffee-table-48x10x175-inch-channel-epoxy-gallon-calculator",
+    "title": "Live-Edge River Coffee Table (48x10x1.75 Inch Channel) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (4.0 Gallons / 512 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Live-Edge River Coffee Table (48x10x1.75 Inch Channel).",
+    "gallons": 4.0,
+    "fl_oz": 512,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-25"
+  },
+  {
+    "project_name": "8-Foot Commercial Bar Top Flood Coat (96x24x0.125 Inch)",
+    "slug": "8-foot-commercial-bar-top-flood-coat-96x24x0125-inch-epoxy-gallon-calculator",
+    "title": "8-Foot Commercial Bar Top Flood Coat (96x24x0.125 Inch) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.37 Gallons / 175 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for 8-Foot Commercial Bar Top Flood Coat (96x24x0.125 Inch).",
+    "gallons": 1.37,
+    "fl_oz": 175,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-25"
+  }
+]
