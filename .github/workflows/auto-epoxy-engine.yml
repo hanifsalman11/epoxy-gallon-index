@@ -1,0 +1,55 @@
+name: Autonomous Epoxy Resin Volume & River Table Sizing Engine
+
+on:
+  schedule:
+    - cron: '32 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      custom_project:
+        description: 'Optional Epoxy Brand or Project (e.g. TotalBoat ThickSet Deep Pour)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  generate-epoxy-calculators:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build Epoxy Calculators & Ping Search Engines
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_BASE_URL: ${{ secrets.SITE_BASE_URL }}
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          PAGES_PER_RUN: '3'
+          CUSTOM_PROJECT: ${{ github.event.inputs.custom_project || '' }}
+        run: |
+          python engine/epoxy_builder.py
+
+      - name: Commit & Push to Trigger GitHub Pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ data/published_projects.json
+          if git diff --staged --quiet; then
+            echo "No new epoxy calculator pages to commit."
+          else
+            git commit -m "chore(epoxy): auto-publish new epoxy resin gallon calculators"
+            git push origin main
+          fi
