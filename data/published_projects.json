@@ -28,5 +28,35 @@
     "fl_oz": 175,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-10-25"
+  },
+  {
+    "project_name": "Kitchen Island Countertop Flood Coat (84x36x0.125 Inch)",
+    "slug": "kitchen-island-countertop-flood-coat-84x36x0125-inch-epoxy-gallon-calculator",
+    "title": "Kitchen Island Countertop Flood Coat (84x36x0.125 Inch) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.8 Gallons / 230 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Kitchen Island Countertop Flood Coat (84x36x0.125 Inch).",
+    "gallons": 1.8,
+    "fl_oz": 230,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-26"
+  },
+  {
+    "project_name": "TotalBoat ThickSet Deep Pour Epoxy Calculator",
+    "slug": "totalboat-thickset-deep-pour-epoxy-calculator-epoxy-gallon-calculator",
+    "title": "TotalBoat ThickSet Deep Pour Epoxy Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (4.29 Gallons / 549 fl oz w/ 10% buffer), 3:1 By Volume Part A/B measurements, and pour depth limits for TotalBoat ThickSet Deep Pour Epoxy Calculator.",
+    "gallons": 4.29,
+    "fl_oz": 549,
+    "mix_ratio": "3:1 By Volume",
+    "date": "2026-10-26"
+  },
+  {
+    "project_name": "TotalBoat TableTop 1:1 Epoxy Resin Calculator",
+    "slug": "totalboat-tabletop-11-epoxy-resin-calculator-epoxy-gallon-calculator",
+    "title": "TotalBoat TableTop 1:1 Epoxy Resin Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for TotalBoat TableTop 1:1 Epoxy Resin Calculator.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-26"
   }
 ]
