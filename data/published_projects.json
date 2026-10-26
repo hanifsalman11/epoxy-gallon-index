@@ -58,5 +58,35 @@
     "fl_oz": 165,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-10-26"
+  },
+  {
+    "project_name": "Superclear Liquid Glass 2.0 Deep Pour Epoxy Calculator",
+    "slug": "superclear-liquid-glass-20-deep-pour-epoxy-calculator-epoxy-gallon-calculator",
+    "title": "Superclear Liquid Glass 2.0 Deep Pour Epoxy Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (8.23 Gallons / 1053 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Superclear Liquid Glass 2.0 Deep Pour Epoxy Calculator.",
+    "gallons": 8.23,
+    "fl_oz": 1053,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-26"
+  },
+  {
+    "project_name": "Superclear Table Top 1:1 Bar & Counter Epoxy Calculator",
+    "slug": "superclear-table-top-11-bar-counter-epoxy-calculator-epoxy-gallon-calculator",
+    "title": "Superclear Table Top 1:1 Bar & Counter Epoxy Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.07 Gallons / 137 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Superclear Table Top 1:1 Bar & Counter Epoxy Calculator.",
+    "gallons": 1.07,
+    "fl_oz": 137,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-26"
+  },
+  {
+    "project_name": "Stone Coat Countertops Epoxy Coverage Calculator",
+    "slug": "stone-coat-countertops-epoxy-coverage-calculator-epoxy-gallon-calculator",
+    "title": "Stone Coat Countertops Epoxy Coverage Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.46 Gallons / 187 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Stone Coat Countertops Epoxy Coverage Calculator.",
+    "gallons": 1.46,
+    "fl_oz": 187,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-26"
   }
 ]
