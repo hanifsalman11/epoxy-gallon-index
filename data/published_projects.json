@@ -88,5 +88,35 @@
     "fl_oz": 187,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-10-26"
+  },
+  {
+    "project_name": "MAS Epoxies Table Top Pro 1:1 Volume Calculator",
+    "slug": "mas-epoxies-table-top-pro-11-volume-calculator-epoxy-gallon-calculator",
+    "title": "MAS Epoxies Table Top Pro 1:1 Volume Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.37 Gallons / 175 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for MAS Epoxies Table Top Pro 1:1 Volume Calculator.",
+    "gallons": 1.37,
+    "fl_oz": 175,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-26"
+  },
+  {
+    "project_name": "MAS Epoxies Deep Pour X 3-Inch Casting Calculator",
+    "slug": "mas-epoxies-deep-pour-x-3-inch-casting-calculator-epoxy-gallon-calculator",
+    "title": "MAS Epoxies Deep Pour X 3-Inch Casting Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (5.14 Gallons / 658 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for MAS Epoxies Deep Pour X 3-Inch Casting Calculator.",
+    "gallons": 5.14,
+    "fl_oz": 658,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-26"
+  },
+  {
+    "project_name": "Promise Epoxy (Pro Marine) Table Top Resin Calculator",
+    "slug": "promise-epoxy-pro-marine-table-top-resin-calculator-epoxy-gallon-calculator",
+    "title": "Promise Epoxy (Pro Marine) Table Top Resin Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.54 Gallons / 197 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Promise Epoxy (Pro Marine) Table Top Resin Calculator.",
+    "gallons": 1.54,
+    "fl_oz": 197,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-26"
   }
 ]
