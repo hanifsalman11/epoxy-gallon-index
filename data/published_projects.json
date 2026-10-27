@@ -148,5 +148,35 @@
     "fl_oz": 1254,
     "mix_ratio": "2:1 By Volume",
     "date": "2026-10-27"
+  },
+  {
+    "project_name": "System Three MirrorCast & RiverCast Epoxy Calculator",
+    "slug": "system-three-mirrorcast-rivercast-epoxy-calculator-epoxy-gallon-calculator",
+    "title": "System Three MirrorCast & RiverCast Epoxy Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (4.29 Gallons / 549 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for System Three MirrorCast & RiverCast Epoxy Calculator.",
+    "gallons": 4.29,
+    "fl_oz": 549,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-27"
+  },
+  {
+    "project_name": "FGCI SuperGlaze & Liquid Glass Deep Pour Calculator",
+    "slug": "fgci-superglaze-liquid-glass-deep-pour-calculator-epoxy-gallon-calculator",
+    "title": "FGCI SuperGlaze & Liquid Glass Deep Pour Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (8.23 Gallons / 1053 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for FGCI SuperGlaze & Liquid Glass Deep Pour Calculator.",
+    "gallons": 8.23,
+    "fl_oz": 1053,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-27"
+  },
+  {
+    "project_name": "Let's Resin Deep Pour 2-to-4 Inch Casting Calculator",
+    "slug": "lets-resin-deep-pour-2-to-4-inch-casting-calculator-epoxy-gallon-calculator",
+    "title": "Let's Resin Deep Pour 2-to-4 Inch Casting Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (2.74 Gallons / 351 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Let's Resin Deep Pour 2-to-4 Inch Casting Calculator.",
+    "gallons": 2.74,
+    "fl_oz": 351,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-27"
   }
 ]
