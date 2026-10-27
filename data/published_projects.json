@@ -178,5 +178,35 @@
     "fl_oz": 351,
     "mix_ratio": "2:1 By Volume",
     "date": "2026-10-27"
+  },
+  {
+    "project_name": "Janchun / Nicpro Crystal Clear 1:1 Art & Charcuterie Board",
+    "slug": "janchun-nicpro-crystal-clear-11-art-charcuterie-board-epoxy-gallon-calculator",
+    "title": "Janchun / Nicpro Crystal Clear 1:1 Art & Charcuterie Board Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (0.4 Gallons / 51 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Janchun / Nicpro Crystal Clear 1:1 Art & Charcuterie Board.",
+    "gallons": 0.4,
+    "fl_oz": 51,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-27"
+  },
+  {
+    "project_name": "2-Car Garage Floor 100% Solids Metallic Epoxy (20x24 Ft)",
+    "slug": "2-car-garage-floor-100-solids-metallic-epoxy-20x24-ft-epoxy-gallon-calculator",
+    "title": "2-Car Garage Floor 100% Solids Metallic Epoxy (20x24 Ft) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (14.81 Gallons / 1896 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for 2-Car Garage Floor 100% Solids Metallic Epoxy (20x24 Ft).",
+    "gallons": 14.81,
+    "fl_oz": 1896,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-27"
+  },
+  {
+    "project_name": "1-Car Garage Workshop Floor Epoxy Coating (12x20 Ft)",
+    "slug": "1-car-garage-workshop-floor-epoxy-coating-12x20-ft-epoxy-gallon-calculator",
+    "title": "1-Car Garage Workshop Floor Epoxy Coating (12x20 Ft) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (6.58 Gallons / 842 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for 1-Car Garage Workshop Floor Epoxy Coating (12x20 Ft).",
+    "gallons": 6.58,
+    "fl_oz": 842,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-27"
   }
 ]
