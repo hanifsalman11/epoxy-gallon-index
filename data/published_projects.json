@@ -118,5 +118,35 @@
     "fl_oz": 197,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-10-26"
+  },
+  {
+    "project_name": "Promise Epoxy Deep Pour 2-Inch River Table Calculator",
+    "slug": "promise-epoxy-deep-pour-2-inch-river-table-calculator-epoxy-gallon-calculator",
+    "title": "Promise Epoxy Deep Pour 2-Inch River Table Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (6.29 Gallons / 805 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Promise Epoxy Deep Pour 2-Inch River Table Calculator.",
+    "gallons": 6.29,
+    "fl_oz": 805,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-27"
+  },
+  {
+    "project_name": " WiseBond Deep Pour 2:1 River Table Epoxy Calculator",
+    "slug": "wisebond-deep-pour-21-river-table-epoxy-calculator-epoxy-gallon-calculator",
+    "title": " WiseBond Deep Pour 2:1 River Table Epoxy Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (8.23 Gallons / 1053 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for  WiseBond Deep Pour 2:1 River Table Epoxy Calculator.",
+    "gallons": 8.23,
+    "fl_oz": 1053,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-27"
+  },
+  {
+    "project_name": "Ecopoxy FlowCast 2:1 Bio-Based Deep Pour Calculator",
+    "slug": "ecopoxy-flowcast-21-bio-based-deep-pour-calculator-epoxy-gallon-calculator",
+    "title": "Ecopoxy FlowCast 2:1 Bio-Based Deep Pour Calculator Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (9.8 Gallons / 1254 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Ecopoxy FlowCast 2:1 Bio-Based Deep Pour Calculator.",
+    "gallons": 9.8,
+    "fl_oz": 1254,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-27"
   }
 ]
