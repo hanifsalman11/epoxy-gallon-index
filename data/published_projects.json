@@ -208,5 +208,35 @@
     "fl_oz": 842,
     "mix_ratio": "2:1 By Volume",
     "date": "2026-10-27"
+  },
+  {
+    "project_name": "3-Car Garage Floor Epoxy & Polyaspartic Topcoat (30x22 Ft)",
+    "slug": "3-car-garage-floor-epoxy-polyaspartic-topcoat-30x22-ft-epoxy-gallon-calculator",
+    "title": "3-Car Garage Floor Epoxy & Polyaspartic Topcoat (30x22 Ft) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (18.1 Gallons / 2317 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for 3-Car Garage Floor Epoxy & Polyaspartic Topcoat (30x22 Ft).",
+    "gallons": 18.1,
+    "fl_oz": 2317,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-28"
+  },
+  {
+    "project_name": "Basement Concrete Recreation Room Metallic Floor (400 Sq Ft)",
+    "slug": "basement-concrete-recreation-room-metallic-floor-400-sq-ft-epoxy-gallon-calculator",
+    "title": "Basement Concrete Recreation Room Metallic Floor (400 Sq Ft) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (12.34 Gallons / 1580 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Basement Concrete Recreation Room Metallic Floor (400 Sq Ft).",
+    "gallons": 12.34,
+    "fl_oz": 1580,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-28"
+  },
+  {
+    "project_name": "10-Foot Conference River Table Deep Pour (120x16x2.25 In)",
+    "slug": "10-foot-conference-river-table-deep-pour-120x16x225-in-epoxy-gallon-calculator",
+    "title": "10-Foot Conference River Table Deep Pour (120x16x2.25 In) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (20.57 Gallons / 2633 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for 10-Foot Conference River Table Deep Pour (120x16x2.25 In).",
+    "gallons": 20.57,
+    "fl_oz": 2633,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-28"
   }
 ]
