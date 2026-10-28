@@ -268,5 +268,35 @@
     "fl_oz": 603,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-10-28"
+  },
+  {
+    "project_name": "Penny Floor / Bottle Cap Bar Top Encapsulation (60x28x0.25 In)",
+    "slug": "penny-floor-bottle-cap-bar-top-encapsulation-60x28x025-in-epoxy-gallon-calculator",
+    "title": "Penny Floor / Bottle Cap Bar Top Encapsulation (60x28x0.25 In) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (2.0 Gallons / 256 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Penny Floor / Bottle Cap Bar Top Encapsulation (60x28x0.25 In).",
+    "gallons": 2.0,
+    "fl_oz": 256,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-28"
+  },
+  {
+    "project_name": "Deep floral Wedding Bouquet Preservation Block (10x10x4 In)",
+    "slug": "deep-floral-wedding-bouquet-preservation-block-10x10x4-in-epoxy-gallon-calculator",
+    "title": "Deep floral Wedding Bouquet Preservation Block (10x10x4 In) Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.9 Gallons / 243 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Deep floral Wedding Bouquet Preservation Block (10x10x4 In).",
+    "gallons": 1.9,
+    "fl_oz": 243,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-28"
+  },
+  {
+    "project_name": "Outdoor Marine Boat Deck & Transom Fiberglass Filleting",
+    "slug": "outdoor-marine-boat-deck-transom-fiberglass-filleting-epoxy-gallon-calculator",
+    "title": "Outdoor Marine Boat Deck & Transom Fiberglass Filleting Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (2.74 Gallons / 351 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Outdoor Marine Boat Deck & Transom Fiberglass Filleting.",
+    "gallons": 2.74,
+    "fl_oz": 351,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-28"
   }
 ]
