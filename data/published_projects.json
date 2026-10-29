@@ -328,5 +328,35 @@
     "fl_oz": 165,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-10-29"
+  },
+  {
+    "project_name": "Floor",
+    "slug": "floor-epoxy-gallon-calculator",
+    "title": "Floor Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Floor.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-29"
+  },
+  {
+    "project_name": "Countertops",
+    "slug": "countertops-epoxy-gallon-calculator",
+    "title": "Countertops Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Countertops.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-29"
+  },
+  {
+    "project_name": "Epoxy Resin To Hardener",
+    "slug": "epoxy-resin-to-hardener-epoxy-gallon-calculator",
+    "title": "Epoxy Resin To Hardener Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Epoxy Resin To Hardener.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-29"
   }
 ]
