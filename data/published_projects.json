@@ -358,5 +358,35 @@
     "fl_oz": 165,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-10-29"
+  },
+  {
+    "project_name": "Epoxy Resin To Use",
+    "slug": "epoxy-resin-to-use-epoxy-gallon-calculator",
+    "title": "Epoxy Resin To Use Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Epoxy Resin To Use.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-29"
+  },
+  {
+    "project_name": "Is Epoxy Resin  Crafts",
+    "slug": "is-epoxy-resin-crafts-epoxy-gallon-calculator",
+    "title": "Is Epoxy Resin  Crafts Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Is Epoxy Resin  Crafts.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-29"
+  },
+  {
+    "project_name": "Is Epoxy Resin  Wood",
+    "slug": "is-epoxy-resin-wood-epoxy-gallon-calculator",
+    "title": "Is Epoxy Resin  Wood Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Is Epoxy Resin  Wood.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-29"
   }
 ]
