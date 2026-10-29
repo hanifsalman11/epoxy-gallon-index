@@ -298,5 +298,35 @@
     "fl_oz": 351,
     "mix_ratio": "2:1 By Volume",
     "date": "2026-10-28"
+  },
+  {
+    "project_name": "Table Top",
+    "slug": "table-top-epoxy-gallon-calculator",
+    "title": "Table Top Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Table Top.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-29"
+  },
+  {
+    "project_name": "A Table",
+    "slug": "a-table-epoxy-gallon-calculator",
+    "title": "A Table Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for A Table.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-29"
+  },
+  {
+    "project_name": "Coasters",
+    "slug": "coasters-epoxy-gallon-calculator",
+    "title": "Coasters Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Coasters.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-29"
   }
 ]
