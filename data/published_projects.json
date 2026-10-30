@@ -418,5 +418,35 @@
     "fl_oz": 878,
     "mix_ratio": "2:1 By Volume",
     "date": "2026-10-30"
+  },
+  {
+    "project_name": "Deep Pour Epoxy Ideas",
+    "slug": "deep-pour-epoxy-ideas-epoxy-gallon-calculator",
+    "title": "Deep Pour Epoxy Ideas Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (6.86 Gallons / 878 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Deep Pour Epoxy Ideas.",
+    "gallons": 6.86,
+    "fl_oz": 878,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-30"
+  },
+  {
+    "project_name": "Totalboat Epoxy",
+    "slug": "totalboat-epoxy-epoxy-gallon-calculator",
+    "title": "Totalboat Epoxy Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Totalboat Epoxy.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-30"
+  },
+  {
+    "project_name": "Totalboat Epoxy Resin",
+    "slug": "totalboat-epoxy-resin-epoxy-gallon-calculator",
+    "title": "Totalboat Epoxy Resin Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Totalboat Epoxy Resin.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-30"
   }
 ]
