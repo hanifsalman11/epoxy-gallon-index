@@ -388,5 +388,35 @@
     "fl_oz": 165,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-10-29"
+  },
+  {
+    "project_name": "Is Epoxy Resin In Kenya",
+    "slug": "is-epoxy-resin-in-kenya-epoxy-gallon-calculator",
+    "title": "Is Epoxy Resin In Kenya Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Is Epoxy Resin In Kenya.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-30"
+  },
+  {
+    "project_name": "Deep Pour Epoxy",
+    "slug": "deep-pour-epoxy-epoxy-gallon-calculator",
+    "title": "Deep Pour Epoxy Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (6.86 Gallons / 878 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Deep Pour Epoxy.",
+    "gallons": 6.86,
+    "fl_oz": 878,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-30"
+  },
+  {
+    "project_name": "Deep Pour Epoxy Do I Need",
+    "slug": "deep-pour-epoxy-do-i-need-epoxy-gallon-calculator",
+    "title": "Deep Pour Epoxy Do I Need Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (6.86 Gallons / 878 fl oz w/ 10% buffer), 2:1 By Volume Part A/B measurements, and pour depth limits for Deep Pour Epoxy Do I Need.",
+    "gallons": 6.86,
+    "fl_oz": 878,
+    "mix_ratio": "2:1 By Volume",
+    "date": "2026-10-30"
   }
 ]
