@@ -508,5 +508,35 @@
     "fl_oz": 165,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-10-31"
+  },
+  {
+    "project_name": "Totalboat Epoxy  Free",
+    "slug": "totalboat-epoxy-free-epoxy-gallon-calculator",
+    "title": "Totalboat Epoxy  Free Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Totalboat Epoxy  Free.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-31"
+  },
+  {
+    "project_name": "Totalboat Epoxy Resin Cure Time",
+    "slug": "totalboat-epoxy-resin-cure-time-epoxy-gallon-calculator",
+    "title": "Totalboat Epoxy Resin Cure Time Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Totalboat Epoxy Resin Cure Time.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-31"
+  },
+  {
+    "project_name": "Stone Coat Countertops Reviews",
+    "slug": "stone-coat-countertops-reviews-epoxy-gallon-calculator",
+    "title": "Stone Coat Countertops Reviews Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Stone Coat Countertops Reviews.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-31"
   }
 ]
