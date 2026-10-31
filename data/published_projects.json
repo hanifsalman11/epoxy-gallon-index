@@ -478,5 +478,35 @@
     "fl_oz": 878,
     "mix_ratio": "2:1 By Volume",
     "date": "2026-10-30"
+  },
+  {
+    "project_name": "Totalboat Epoxy Fairing Compound",
+    "slug": "totalboat-epoxy-fairing-compound-epoxy-gallon-calculator",
+    "title": "Totalboat Epoxy Fairing Compound Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Totalboat Epoxy Fairing Compound.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-31"
+  },
+  {
+    "project_name": "Totalboat Epoxy Home Depot",
+    "slug": "totalboat-epoxy-home-depot-epoxy-gallon-calculator",
+    "title": "Totalboat Epoxy Home Depot Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Totalboat Epoxy Home Depot.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-31"
+  },
+  {
+    "project_name": "Totalboat Epoxy Reviews",
+    "slug": "totalboat-epoxy-reviews-epoxy-gallon-calculator",
+    "title": "Totalboat Epoxy Reviews Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Totalboat Epoxy Reviews.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-31"
   }
 ]
