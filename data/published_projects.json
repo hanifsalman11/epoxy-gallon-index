@@ -538,5 +538,35 @@
     "fl_oz": 165,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-10-31"
+  },
+  {
+    "project_name": "Stone Coat Countertops Epoxy",
+    "slug": "stone-coat-countertops-epoxy-epoxy-gallon-calculator",
+    "title": "Stone Coat Countertops Epoxy Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Stone Coat Countertops Epoxy.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-31"
+  },
+  {
+    "project_name": "Stone Coat Countertops Ultimate Top Coat",
+    "slug": "stone-coat-countertops-ultimate-top-coat-epoxy-gallon-calculator",
+    "title": "Stone Coat Countertops Ultimate Top Coat Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Stone Coat Countertops Ultimate Top Coat.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-31"
+  },
+  {
+    "project_name": "Stone Coat Countertops Coupon Code",
+    "slug": "stone-coat-countertops-coupon-code-epoxy-gallon-calculator",
+    "title": "Stone Coat Countertops Coupon Code Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Stone Coat Countertops Coupon Code.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-10-31"
   }
 ]
