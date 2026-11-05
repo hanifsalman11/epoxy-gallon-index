@@ -648,5 +648,15 @@
     "fl_oz": 165,
     "mix_ratio": "1:1 By Volume",
     "date": "2026-11-04"
+  },
+  {
+    "project_name": "Totalboat Epoxy Lowes",
+    "slug": "totalboat-epoxy-lowes-epoxy-gallon-calculator",
+    "title": "Totalboat Epoxy Lowes Volume Calculator: Gallons, Quarts & Mix Ratio (2026)",
+    "description": "Calculate exact epoxy resin volume (1.29 Gallons / 165 fl oz w/ 10% buffer), 1:1 By Volume Part A/B measurements, and pour depth limits for Totalboat Epoxy Lowes.",
+    "gallons": 1.29,
+    "fl_oz": 165,
+    "mix_ratio": "1:1 By Volume",
+    "date": "2026-11-05"
   }
 ]
